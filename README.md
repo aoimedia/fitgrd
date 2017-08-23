@@ -24,10 +24,7 @@ Write smart code and you will not need more.
 ## Note
 Fitgrd is a product of much coffee and sleepless nights. 
 I have many good ideas for further development which
-will make your life easier as developer or designer. 
-I would be delighted if you flattr fitgrd!
-
-<a href="http://flattr.com/thing/1355012/fitgrd-the-sexy-looking-responsive-css-grid" target="_blank"><img src="http://api.flattr.com/button/flattr-badge-large.png" alt="Flattr this" title="Flattr this" border="0" /></a>
+will make your life easier as developer or designer.
 
 ## Basic Setup
 
